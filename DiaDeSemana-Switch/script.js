@@ -5,7 +5,7 @@
 /* Elegir un valor entre 1 y 7, fuera de esos sera valor invalido */
 
 
-let diaNumero = 2;
+let diaNumero = 2; /* Pueden introducir cualquier numero aqui */
 let diaTexto;
 
 switch (diaNumero){
